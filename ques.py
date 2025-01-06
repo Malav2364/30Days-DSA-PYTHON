@@ -2,6 +2,9 @@
 n = 'hello world'
 print(f'Original String :{n} Reversed String is :{n[::-1]}')
 
+max
+
+
 #palindrome
 n1 = 'aos'
 if n1[::-1] == n1:
